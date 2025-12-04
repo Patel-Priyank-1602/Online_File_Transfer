@@ -1,7 +1,7 @@
 # 📁 File Transfer Server
 
 A **secure, local file-sharing server** that runs over your PC’s Wi-Fi hotspot.  
-Share files between your **PC and mobile devices** — no internet required! ⚡  
+Share files between your **PC and mobile devices** — No internet is required while transferring files! ⚡  
 
 ---
 
